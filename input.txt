@@ -1,0 +1,9 @@
+5
+order 1 buy 50 10.0
+order 2 sell 55 15.0
+q level ask 0
+q level bid 0
+q order 2
+order 3 buy 5 15.0
+q order 2
+q level ask 0

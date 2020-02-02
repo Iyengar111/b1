@@ -1,0 +1,5 @@
+ask, 0, 15.0, 55, 1
+bid, 0, 10.0, 50, 1
+OPEN, 55, 0
+PARTIALLY_FILLED, 50, 0
+ask, 0, 15.0, 50, 1
