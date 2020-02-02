@@ -1,8 +1,7 @@
 # README
 
 To build
-$ cmake .
-$ make
+$ cmake . ; make
 
 Run tests - 
 $ ./order_book_test
